@@ -1,4 +1,4 @@
-# Welcome to Crealgo's GitHub
+# Welcome to :tomato: Crealgo's GitHub
 
 Below you'll find information regarding the repositories in this organization. Happy coding!
 
